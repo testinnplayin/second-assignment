@@ -1,0 +1,19 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "assignment 2 of Udemy Node course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment",
+    "Node",
+    "Express"
+  ],
+  "author": "R.Wood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
